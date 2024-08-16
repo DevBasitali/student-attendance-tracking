@@ -1,0 +1,1 @@
+in the production app i have used nextjs, tailwind css, and shadcn library and lucid icons. In the backend i have used kinde library
